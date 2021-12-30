@@ -7,6 +7,8 @@
   - Docker 🧑‍💻
   - postman 🧑‍💻
   - Pase mi entorno de desarrollo a wsl con docker ⭐
+- Repositorios de backend
+  - [api-store](https://github.com/cdguedez/api-store-cguedez)
 - 💞️ Me interesaria colaborar en proyectos con estas tecnologias, sin embargo siempre me gusta explorar nuevas 🧑‍💻
 - 📫 Puedes comunicarte conmigo por twitter, mi usuario es @cdguedez
 
