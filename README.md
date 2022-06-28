@@ -1,4 +1,8 @@
 - 👋 Hola, Soy Carlos Guedez y aqui te detallo mis intereses en tech
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/cdguedez/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/cdguedez) 
+
 - 👀 Me interesa el desarrollo web y la administracion de servidores
 - Ruta de aprendizaje:
   - React.js 🧑‍💻
@@ -8,8 +12,6 @@
   - Docker 🧑‍💻
   - postman 🧑‍💻
   - Pase mi entorno de desarrollo a wsl con docker ⭐
-
-- 📫 Puedes comunicarte conmigo por twitter, mi usuario es @cdguedez
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdguedez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
