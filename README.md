@@ -5,13 +5,13 @@
 
 - 👀 Me interesa el desarrollo web y la administracion de servidores
 - Ruta de aprendizaje:
-  - React.js 🧑‍💻
+  - React.js ⭐
   - Node.js ⭐
   - Atomic Desing ⭐
   - Administracion de servidores desde la terminal 🧑‍💻
   - Docker 🧑‍💻
   - postman 🧑‍💻
-  - Pase mi entorno de desarrollo a wsl con docker ⭐
+  - Pase mi entorno de desarrollo a wsl con docker  (ahora soy team linux)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdguedez&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
